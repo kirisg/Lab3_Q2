@@ -1,0 +1,7 @@
+*.user
+*.vspscc
+*.vssscc
+.vs/
+.vscode/
+bin/
+obj/
